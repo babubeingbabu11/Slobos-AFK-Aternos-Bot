@@ -1,14 +1,14 @@
 {
-  "name": "YO AM JUST AN AFK BOT OKAY NO MOTHER FUCKERS TOUCH ME",
+  "name": "Afk Bot",
   "bot-account": {
-    "username": "YO AM JUST AN AFK BOT",
+    "username": "BABU G",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "vtcolany.aternos.me",
-    "port": 27279,
-    "version": "",
+    "ip": "fakemcfleet2.aternos.me",
+    "port": 43674,
+    "version": ""1.21.11,
     "try-creative": false
   },
   "position": {
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Hilo Hilo",
+        "Subscribe to babubeingbabu!",
         "I like to play Minecraft!"
       ]
     },
